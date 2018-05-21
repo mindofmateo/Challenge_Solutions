@@ -1,3 +1,5 @@
+#  https://foobar.withgoogle.com/
+
 from math import sqrt
 
 def answer(n):
