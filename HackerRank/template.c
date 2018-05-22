@@ -1,12 +1,15 @@
+/***********************************************\
+| URL:                                          |
+|                                               |
+| Summary:                                      |
+\***********************************************/
+
 #include <stdio.h>
-#include <string.h>
 #include <math.h>
+#include <string.h>
 #include <stdlib.h>
 
-/*
-
-URL:
-
-Summary:
-
-*/
+int main()
+{
+	return 0;
+}
