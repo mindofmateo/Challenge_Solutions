@@ -1,4 +1,13 @@
-#  https://foobar.withgoogle.com/
+#!/bin/python3
+
+'''---------------------------------------------------------------|
+| Date: 20180520                                                  |
+| URL:                                                            |
+| https://foobar.withgoogle.com/                                  |
+| Summary:                                                        |
+| From an "infinite list" of prime numbers, find the nth to n+5th |
+| digits.  Constraints: 0 <= n <= 10000                           |
+|---------------------------------------------------------------'''
 
 from math import sqrt
 

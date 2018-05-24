@@ -1,3 +1,7 @@
+# Disregard, this is just a practice workspace.
+# 20180520
+
+
 from math import sqrt
 
 
